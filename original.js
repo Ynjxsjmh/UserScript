@@ -4720,7 +4720,7 @@ function(A, t, e) {
 },
 function(A, t, e) {
     t = A.exports = e(0)(!1),
-    t.push([A.i, "\n.card-title {\n    cursor: pointer;\n}\n.ivu-card-extra {\n    top: 8px;\n}\n.ivu-table-body {\n    height: 400px;\n    overflow-x: hidden;\n}\n.table-footer {\n  position: fixed;\n  bottom: 0 ;\n  padding-left: 10px;\n  width: 100%;\n  background-color: #fff; display: none;\n}\n.table-footer a {\n  color: #ed3f14;\n}\n", ""])
+    t.push([A.i, "\n.card-title {\n    cursor: pointer;\n}\n.ivu-card-extra {\n    top: 8px;\n}\n.ivu-table-body {\n    height: 400px;\n    overflow-x: hidden;\n}\n.table-footer {\n  position: fixed;\n  bottom: 0 ;\n  padding-left: 10px;\n  width: 100%;\n  background-color: #fff;\n}\n.table-footer a {\n  color: #ed3f14;\n}\n", ""])
 },
 function(A, t) { !
     function(t, e) {
